@@ -1,5 +1,4 @@
 # Calculatorr
-hello
 <h1 align="center">
   🧮 Modern Calculator
 </h1>
@@ -39,21 +38,7 @@ Percentage
 
 Decimal
 
-🎬 Animation Preview
 
-If you don’t have a GIF yet, create one using:
-
-ScreenToGif
-
-OBS Studio
-
-Kapwing
-
-Canva
-
-Save it as:
-
-assets/calculator-preview.gif
 🛠️ Built With
 
 HTML5
@@ -74,6 +59,6 @@ JavaScript (Vanilla JS)
  ┗ 📜 README.md
 
  📸 Screenshots
-<p align="center"> <img src="screenshot/todo-app.jpg" width="400"/> <img src="assets/screenshot2.png" width="400"/> </p>
+<p align="center"> <img src="screenshot/todo-app.jpg" width="400"/> </p>
 For mobile Ratio
-<p align="center"> <img src="screenshot/todo-app-mobile.jpg" width="400"/> <img src="assets/screenshot2.png" width="400"/> </p>
+<p align="center"> <img src="screenshot/todo-app-mobile.jpg" width="400"/> </p>
