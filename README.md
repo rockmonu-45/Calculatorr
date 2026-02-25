@@ -3,9 +3,6 @@
   🧮 Modern Calculator
 </h1>
 
-<p align="center">
-  A sleek, animated & responsive calculator built with HTML, CSS & JavaScript.
-</p>
 🧮 Modern Calculator App
 <p align="center"> <img src="https://img.shields.io/badge/Calculator-App-red?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Responsive-Yes-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" /> </p> <p align="center"> <img src="assets/calculator-preview.gif" width="600" alt="Calculator Demo Animation"/> </p>
 🚀 Live Demo
@@ -59,6 +56,6 @@ JavaScript (Vanilla JS)
  ┗ 📜 README.md
 
  📸 Screenshots
-<p align="center"> <img src="screenshot/todo-app.jpg" width="400"/> </p>
+<p align="center"> <img src="screenshot/calculator.jpg" width="400"/> </p>
 For mobile Ratio
-<p align="center"> <img src="screenshot/todo-app-mobile.jpg" width="400"/> </p>
+<p align="center"> <img src="screenshot/calculator-mobile.jpg" width="400"/> </p>
