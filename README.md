@@ -74,6 +74,6 @@ JavaScript (Vanilla JS)
  ┗ 📜 README.md
 
  📸 Screenshots
-<p align="center"> <img src="todoapp.jpg" width="400"/> <img src="assets/screenshot2.png" width="400"/> </p>
+<p align="center"> <img src="screenshot/todo-app.jpg" width="400"/> <img src="assets/screenshot2.png" width="400"/> </p>
 For mobile Ratio
-<p align="center"> <img src="todoapp-mobile.jpg" width="400"/> <img src="assets/screenshot2.png" width="400"/> </p>
+<p align="center"> <img src="screenshot/todo-app-mobile.jpg" width="400"/> <img src="assets/screenshot2.png" width="400"/> </p>
